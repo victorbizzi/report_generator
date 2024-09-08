@@ -1,0 +1,4 @@
+Libraries:
+Seaborn is a Python data visualization library based on Matplotlib that provides a high-level interface for drawing attractive and informative statistical graphics. For statistical visualizations.
+Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. For basic plotting.
+Pandas: High-level data manipulation and analysis, with built-in support for reading/writing Excel files. Openpyxl is more focused on reading/writing Excel files
